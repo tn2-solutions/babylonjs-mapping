@@ -107,3 +107,7 @@ dist
 .tern-port
 
 mapbox-key.txt
+
+.idea
+*.iml
+yarn.lock
